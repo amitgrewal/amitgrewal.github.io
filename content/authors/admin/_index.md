@@ -1,7 +1,7 @@
 ---
 title: Amit Grewal
 role: Honors B.A., Accounting
-avatar_filename: img_0949_crop.webp
+avatar_filename: img_0949_crop.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
