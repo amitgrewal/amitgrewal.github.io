@@ -9,9 +9,6 @@ interests:
   - Business
   - Motorsports
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/amitgrewal
@@ -20,19 +17,18 @@ social:
     link: https://www.linkedin.com/in/grewalamit/
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: id-card
-    link: yolo
+    link: /#contact
 organizations:
   - name: Michigan State University
     url: https://msu.edu/
 education:
   courses:
-    - course: HBA in Accounting, Minor in Information & Communication Technology &
-        Development
+    - course: HBA in Accounting; Minor in IT, Comm. Sci., & Global Development
       institution: Michigan State University
       year: 2023
-    - course: Diploma; Business/Commerce
+    - course: Diploma, Business/Commerce
       institution: Forest Hills Central High School
       year: 2019
 email: ""
