@@ -18,20 +18,23 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/grewalamit/
+  - display:
+      header: false
+    icon_pack: far
+    icon: id-card
+    link: yolo
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Michigan State University
+    url: https://msu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: HBA in Accounting, Minor in Information & Communication Technology &
+        Development
+      institution: Michigan State University
+      year: 2023
+    - course: Diploma; Business/Commerce
+      institution: Forest Hills Central High School
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
