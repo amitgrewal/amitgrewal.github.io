@@ -39,4 +39,4 @@ I am a determined student in the Eli Broad College of Business at Michigan State
 
 Beyond my education, I run two businesses; Grewal Consulting and Meow Meow Heavy Industries. Grewal Consulting provides consulting services to retail operations, including gas stations; convenience stores; and grocery stores, in the fields of legal services, technology, and corporate strategy. Grewal Consulting currently has 12 clients. Meow Meow Heavy Industries specializes in the repair and resale of consumer electronics in addition to frequent heavy equipment repair (industrial machinery, vehicles, etc.)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
