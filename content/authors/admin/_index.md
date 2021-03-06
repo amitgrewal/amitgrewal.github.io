@@ -2,11 +2,11 @@
 title: Amit Grewal
 role: Honors B.A., Accounting
 avatar_filename: img_0949_crop.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Grewal Consulting provides corporate strategy, technology, and legal services.
 interests:
-  - Technology
   - Business
+  - Technology
+  - Mechanical Engineering
   - Motorsports
 social:
   - icon: github
@@ -35,8 +35,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Nelson is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a determined student in the Eli Broad College of Business at Michigan State University looking to make a difference in the world. I am enrolled in the Honors Bachelor of Arts program with a specialization in Accounting and a minor in Information and Communication Technology and Development. I am always looking for opportunities to continue my pursuit of expertise within these fields. I look forward to applying my vast range of experience to the fullest wherever the opportunity presents itself. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Beyond my education, I run two businesses; Grewal Consulting and Meow Meow Heavy Industries. Grewal Consulting provides consulting services to retail operations, including gas stations; convenience stores; and grocery stores, in the fields of legal services, technology, and corporate strategy. Grewal Consulting currently has 12 clients. Meow Meow Heavy Industries specializes in the repair and resale of consumer electronics in addition to frequent heavy equipment repair (industrial machinery, vehicles, etc.)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
