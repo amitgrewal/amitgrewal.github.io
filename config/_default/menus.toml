@@ -29,10 +29,8 @@
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
-### <a href="https://www.linkedin.com/in/grewalamit/" target="_blank"><span title="Check out my LinkedIn Verified skills!">LinkedIn Verified</span></a>
-### "Resumé"
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
-    name = <a href="https://www.linkedin.com/in/grewalamit/" target="_blank"><span title="Check out my LinkedIn Verified skills!">LinkedIn Verified</span></a>
+    name = "Resumé"
     url = "media/Resume.pdf"
     weight = 60
