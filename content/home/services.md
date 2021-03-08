@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Legal Services
-    tag: Legal Servicees
+    tag: Legal Services
   - name: Technology
     tag: Technology
   - name: Corporate Strategy
