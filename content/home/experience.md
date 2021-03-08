@@ -22,24 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Chief Consultant
+    company: Grewal COnsulting
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Michigan
+    date_start: '2014-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Consulting services in:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Corporate Strategy
+        * Legal Services
+        * Technology Deployments
+    Current Clients: 12 | Acquisitions Deals: $4.8M+  | Cost Reductions: $900K+ | Avg. 2Y Gain: 80%
         
-  - title: Professor
-    company: University X
+  - title: CEO
+    company: Meow Meow Heavy Industries
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Michigan
+    date_start: '2014-12-01'
+    date_end: ''
+    description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances.
+    Most contracts involve reverse-engineering of both mechanical and electrical engineering to solve complex problems. Much of the knowledge gained through this work is applied to Grewal Consulting inform equipment purchasing and repair decisions.
 ---
