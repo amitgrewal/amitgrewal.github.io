@@ -53,7 +53,6 @@ experience:
     date_start: '2014-06-02'
     date_end: ''
     description: |2-
-        yeet yeet:
         * Organized a team of 5-11 employees to increase productivity by 200%, while also increasing employee motivation.
         * Managed store operations in manager's absence.
 ---
