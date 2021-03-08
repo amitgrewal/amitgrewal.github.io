@@ -28,7 +28,7 @@ experience:
     location: Michigan
     date_start: '2014-06-03'
     date_end: ''
-    description: |3-
+    description: |2-
         Consulting services in:
         
         * Corporate Strategy
