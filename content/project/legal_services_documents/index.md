@@ -42,4 +42,4 @@ Grewal Consulting also offers legal review of personal tax and legal documents a
 
 In short, we have years of experience dealing with all manner of documents and can surely review yours!
 
-Contact us through the contact form link at the top of this page for a quote and to learn more.
+Contact us through the contact form link at the top of this page for a quote and to learn more about our offerings.
