@@ -11,7 +11,6 @@ external_link: ""
 image:
   caption: Photo of Muir Village Market (Google Maps)
   focal_point: Smart
-  alt: "hello, this is Amit's not-default alt-text"
 
 links:
 - icon: map-marker-alt
