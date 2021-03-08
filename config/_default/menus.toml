@@ -18,10 +18,10 @@ e# Navigation Links
   url = "#projects"
   weight = 30
 
-[[main]]
-  name = "Services"
-  url = "#services"
-  weight = 40
+#[[main]]
+ # name = "Services"
+  # url = "#services"
+  # weight = 40
 
 [[main]]
   name = "Contact"
