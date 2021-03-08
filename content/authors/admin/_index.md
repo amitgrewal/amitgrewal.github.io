@@ -7,6 +7,7 @@ interests:
   - Business
   - Technology
   - Mechanical Engineering
+  - Electrical Engineering
   - Motorsports
 social:
   - icon: github
