@@ -26,9 +26,9 @@ experience:
     company: Grewal Consulting
     company_url: ''
     location: Michigan
-    date_start: '2014-06-01'
+    date_start: '2014-06-03'
     date_end: ''
-    description: |2-
+    description: |3-
         Consulting services in:
         
         * Corporate Strategy
@@ -42,7 +42,17 @@ experience:
     company: Meow Meow Heavy Industries
     company_url: ''
     location: Michigan
-    date_start: '2013-12-01'
+    date_start: '2014-12-01'
     date_end: ''
     description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances. Heavy emphasis on mechanical and electrical engineering.
+    
+    - title: Assistant Manager
+    company: Amant Petroleum L.L.C.
+    company_url: ''
+    location: Michigan
+    date_start: '2014-06-02'
+    date_end: ''
+    description: |2- 
+    * Organized a team of 5-11 employees to increase productivity by 200%, while also increasing employee motivation.
+    * Managed store operations in manager's absence.
 ---
