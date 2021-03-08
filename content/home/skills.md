@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: [LinkedIn Verfied](https://www.linkedin.com/in/grewalamit/)
+- description: <a href="http://example.com/" target="_blank">Hello, world!</a>
   icon: r-project
   icon_pack: fab
   name: Coding/Technology
