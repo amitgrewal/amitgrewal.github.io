@@ -32,5 +32,5 @@
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
     name = "Resumé"
-    url = "yeet.md"
+    url = "media/yeet.md"
     weight = 60
