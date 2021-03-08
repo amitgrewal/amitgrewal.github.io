@@ -13,10 +13,12 @@ title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
+### <span title="Check out my LinkedIn Verified skills!">This is the text I want to have a mousover</span>
+### <a href="https://www.linkedin.com/in/grewalamit/" target="_blank">LinkedIn Verified</a>
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: <a href="https://www.linkedin.com/in/grewalamit/" target="_blank">LinkedIn Verified</a> <span title="I am hovering over the text">This is the text I want to have a mousover</span>
+- description: <a href="https://www.linkedin.com/in/grewalamit/" target="_blank"><span title="Check out my LinkedIn Verified skills!">LinkedIn Verified</span></a>
   icon: r-project
   icon_pack: fab
   name: Coding/Technology
