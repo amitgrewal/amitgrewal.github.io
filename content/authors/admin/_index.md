@@ -38,6 +38,6 @@ highlight_name: false
 ---
 I am a determined student in the Eli Broad College of Business at Michigan State University looking to make a difference in the world. I am enrolled in the Honors Bachelor of Arts program with a specialization in Accounting and a minor in Information and Communication Technology and Development. I am always looking for opportunities to continue my pursuit of expertise within these fields. I look forward to applying my vast range of experience to the fullest wherever the opportunity presents itself. 
 
-Beyond my education, I run two businesses; Grewal Consulting and Meow Meow Heavy Industries. Grewal Consulting provides consulting services to retail operations, including gas stations; convenience stores; and grocery stores, in the fields of legal services, technology, and corporate strategy. Grewal Consulting currently has 12 clients. Meow Meow Heavy Industries specializes in the repair and resale of consumer electronics in addition to frequent heavy equipment repair (industrial machinery, vehicles, etc.)
+Beyond my education, I run two businesses; Grewal Consulting, which provides consulting services to retail operations, and Meow Meow Heavy Industries, which specializes in the repair and resale of consumer electronics and heavy equipment.
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
