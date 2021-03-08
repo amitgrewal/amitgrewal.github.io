@@ -1,3 +1,5 @@
+![road](https://user-images.githubusercontent.com/78625120/110262457-b9d22d80-7f81-11eb-9eea-15a1816e2ffc.jpg)
+
 +++
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -22,7 +24,7 @@ height = "300px"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "static/img/headers/road.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "![road](https://user-images.githubusercontent.com/78625120/110262457-b9d22d80-7f81-11eb-9eea-15a1816e2ffc.jpg)"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 
