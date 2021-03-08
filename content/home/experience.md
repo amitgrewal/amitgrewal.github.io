@@ -34,8 +34,7 @@ experience:
         * Corporate Strategy
         * Legal Services
         * Technology Deployments
-
-Current Clients: 12 | Acquisitions Deals: $4.8M+  | Avg. 2Y Gain: 80%
+    * Current Clients: 12 | Acquisitions Deals: $4.8M+  | Avg. 2Y Gain: 80%
         
   - title: CEO
     company: Meow Meow Heavy Industries
@@ -43,5 +42,6 @@ Current Clients: 12 | Acquisitions Deals: $4.8M+  | Avg. 2Y Gain: 80%
     location: Michigan
     date_start: '2014-12-01'
     date_end: ''
-    description:
+    description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances.
+    Most contracts involve reverse-engineering of both mechanical and electrical engineering to solve complex problems. Much of the knowledge gained through this work is applied to Grewal Consulting inform equipment purchasing and repair decisions.
 ---
