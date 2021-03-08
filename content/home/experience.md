@@ -34,7 +34,7 @@ experience:
         * Corporate Strategy
         * Legal Services
         * Technology Deployments
-        * Current Clients
+        * Current Clients: 12 | Acquisitions Deals: $4.8M+  | Cost Reductions: $900K+ | Avg. 2Y Gain: 80%
         
   - title: CEO
     company: Meow Meow Heavy Industries
@@ -44,3 +44,4 @@ experience:
     date_end: ''
     description:
 ---
+
