@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-One of Grewal Consulting's key legal services is the analysis of all business documents, and ocassionaly personal tax and legal documents.
+One of Grewal Consulting's key legal services is the analysis of all business documents, and occasionally personal tax and legal documents.
 
 We carefully scrutinize every detail, going over most important documents three times in their entirety to catch every mistake and opportunity.
 
