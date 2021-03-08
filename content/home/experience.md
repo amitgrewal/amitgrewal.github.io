@@ -47,7 +47,7 @@ experience:
     description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances. Heavy emphasis on mechanical and electrical engineering.
     
     - title: Assistant Manager
-    company: Amant Petroleum L.L.C.
+    company: Amant Petroleum
     company_url: ''
     location: Michigan
     date_start: '2014-06-02'
