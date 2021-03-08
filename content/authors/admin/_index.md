@@ -1,7 +1,7 @@
 ---
 title: Amit Grewal
 role: Honors B.A., Accounting
-avatar_filename: img_0949_crop.png
+avatar_filename: img_0949_crop.png <span title="Check out my LinkedIn Verified skills!">This is the text I want to have a mousover</span>
 bio: Grewal Consulting provides corporate strategy, technology, and legal services.
 interests:
   - Business
