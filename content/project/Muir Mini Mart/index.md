@@ -14,7 +14,7 @@ image:
 
 links:
 - icon: map-marker-alt
-  icon_pack: fab
+  icon_pack: fas
   name: Google Maps
   url: https://goo.gl/maps/i5WnhdrXejvXWAH97
 url_code: ""
