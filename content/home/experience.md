@@ -45,4 +45,12 @@ experience:
     date_start: '2014-12-01'
     date_end: ''
     description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances. Heavy emphasis on mechanical and electrical engineering.
+    
+  - title: Assistant Manager
+    company: Amant Petroleum
+    company_url: ''
+    location: Michigan
+    date_start: '2014-06-02'
+    date_end: ''
+    description: Organized a team of 5-11 employees to increase productivity by 200%, while also increasing employee motivation. Managed store operations in manager's absence.
 ---
