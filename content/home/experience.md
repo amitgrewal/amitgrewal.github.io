@@ -29,7 +29,7 @@ experience:
     date_start: '2014-06-03'
     date_end: ''
     description: |2-
-        Current Clients: 12 | Acquisitions Deals: $4.8M+  | Avg. 2Y Gain: 80%
+        Current Clients: 12 | Acquisition Deals: $4.8M+  | Avg. 2Y Gain: 80%
         
         Consulting services in:
         
