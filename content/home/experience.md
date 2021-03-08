@@ -41,6 +41,5 @@ experience:
     location: Michigan
     date_start: '2014-12-01'
     date_end: ''
-    description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances.
-    Most contracts involve reverse-engineering of both mechanical and electrical engineering to solve complex problems. Much of the knowledge gained through this work is applied to Grewal Consulting inform equipment purchasing and repair decisions.
+    description: Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances. Most contracts involve reverse-engineering of both mechanical and electrical engineering to solve complex problems. Much of the knowledge gained through this work is applied to Grewal Consulting inform equipment purchasing and repair decisions.
 ---
