@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+#   slides: ""
 ---
 
 Muir Mini Mart (related to the legal entities: Amant Petroleum L.L.C. \[operations] and Bryon Centre Properties L.L.C. \[land/building, name is not a typo]) was transferred to my client on July 29, 2011 after many months of difficult negotiations. Through intensiuve research and market analysis of the surrounding Muir/Lyons Township area, I was able to assess the future growth potential of this gas station and estimate a fair purchase price of $1.1 million plus inventory (+i). The sellers were dead-set on receiving $1 million +i, but I was able to reduce the initial testing offer to $950,000 +i by explaining the many hundreds of thousands of dollars the station would require to be in top-notch operating shape again. After further examination by gas suppliers, architects, and city auditors, I was able to use the problems they identified and reduce the final acquisition cost down to $850K +i.
