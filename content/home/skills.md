@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: <a href="http://example.com/" target="_blank">Hello, world!</a>
+- description: <a href="https://www.linkedin.com/in/grewalamit/" target="_blank">LinkedIn Verified</a> <span title="I am hovering over the text">This is the text I want to have a mousover</span>
   icon: r-project
   icon_pack: fab
   name: Coding/Technology
