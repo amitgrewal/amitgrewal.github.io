@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Chief Consultant
-    company: Grewal COnsulting
+    company: Grewal Consulting
     company_url: ''
     location: Michigan
     date_start: '2014-06-01'
@@ -34,7 +34,8 @@ experience:
         * Corporate Strategy
         * Legal Services
         * Technology Deployments
-        * Current Clients: 12 | Acquisitions Deals: $4.8M+  | Cost Reductions: $900K+ | Avg. 2Y Gain: 80%
+
+Current Clients: 12 | Acquisitions Deals: $4.8M+  | Avg. 2Y Gain: 80%
         
   - title: CEO
     company: Meow Meow Heavy Industries
@@ -44,4 +45,3 @@ experience:
     date_end: ''
     description:
 ---
-
