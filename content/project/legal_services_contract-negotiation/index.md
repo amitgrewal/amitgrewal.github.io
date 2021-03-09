@@ -16,7 +16,7 @@ links:
 - icon: handshake
   icon_pack: fas
   name:
-  url:
+  url: https://amitgrewal.com/project/legal_services_contract-negotiation/
 url_code: ""
 url_pdf: ""
 url_slides: ""
