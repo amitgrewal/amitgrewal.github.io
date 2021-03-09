@@ -15,7 +15,7 @@ image:
 links:
 - icon: map-marker-alt
   icon_pack: fas
-  name: Google Maps
+  name: <span title="Click this for Mill Iron Marathon's Google Page!">Google Maps</span>
   url: https://goo.gl/maps/XvwR4nehkCRpRvon7
 url_code: ""
 url_pdf: ""
