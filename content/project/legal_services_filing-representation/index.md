@@ -1,5 +1,5 @@
 ---
-title: Representation and Filing
+title: Representation & Filing
 summary: Paralegal representation and legal filings
 tags:
 - Legal Services
