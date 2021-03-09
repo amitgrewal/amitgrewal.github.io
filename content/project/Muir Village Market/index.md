@@ -15,7 +15,7 @@ image:
 links:
 - icon: map-marker-alt
   icon_pack: fas
-  name: Google Maps
+  name: <span title="Click this for Muir Village Market's Google Page!">Google Maps</span>
   url: https://goo.gl/maps/XDPHAKDoa6pxti5EA
 url_code: ""
 url_pdf: ""
