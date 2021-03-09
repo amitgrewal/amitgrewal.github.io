@@ -15,7 +15,7 @@ image:
 links:
 - icon: map-marker-alt
   icon_pack: fas
-  name: Google Maps
+  name: <span title="Click this for Belding Mini Market's Google Page!">Google Maps</span>
   url: https://goo.gl/maps/AtuBecfh324bSaGe7
 url_code: ""
 url_pdf: ""
