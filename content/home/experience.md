@@ -64,6 +64,6 @@ experience:
     date_start: '2011-07-01'
     date_end: '2014-06-01'
     description: |2-
-        * Organized a team of 5-11 employees to increase productivity by 200%, while also increasing employee motivation.
-        * Managed store operations in manager's absence.
+        * Gathered feedback from customers and employees to design and improve business processes, decreasing wasted time by 45 minutes per eight-hour shift.
+        * Kept business location operating continuously through inventory management and clean workspaces, resulting in zero at-fault downtime
 ---
