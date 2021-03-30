@@ -31,6 +31,14 @@ item:
   organization_url: ""
   title: Google Digital Marketing
   url: ""
+- certificate_url: https://drive.google.com/file/d/1tS-PhIfIVBT5aleZIdZHDin75JyqHINX/view
+  date_end: ""
+  date_start: "2021-03-27"
+  description: ""
+  organization: Google
+  organization_url: ""
+  title: Google Ads Search
+  url: ""
 - certificate_url: https://www.ethicsgame.com/exec/certificate/16169/ELI?email=grewala2@msu.edu
   date_end: ""
   date_start: "2021-01-13"
