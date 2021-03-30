@@ -26,7 +26,7 @@ experience:
     company: Grewal Consulting
     company_url: ''
     location: Michigan
-    date_start: '2014-06-03'
+    date_start: '2014-07-04'
     date_end: ''
     description: |2-
         Current Clients: 12 | Acquisition Deals: $4.8M+  | Avg. 2Y Gain: 80%
@@ -41,7 +41,7 @@ experience:
     company: Meow Meow Heavy Industries
     company_url: ''
     location: Michigan
-    date_start: '2014-12-01'
+    date_start: '2014-07-01'
     date_end: ''
     description: |2- 
         * Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances.
