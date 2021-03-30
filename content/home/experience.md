@@ -37,7 +37,7 @@ experience:
         * Legal Services
         * Technology Deployments
 
-  - title: CEO
+  - title: Founder, Chief Technician
     company: Meow Meow Heavy Industries
     company_url: ''
     location: Michigan
