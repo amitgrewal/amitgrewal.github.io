@@ -39,6 +39,14 @@ item:
   organization_url: ""
   title: Google Ads Search
   url: ""
+- certificate_url: https://drive.google.com/file/d/1y-fO-on7BUQvSRu-4320VgbX5fKJWg-9/view?usp=sharing
+  date_end: ""
+  date_start: "2021-04-10"
+  description: ""
+  organization: Google
+  organization_url: ""
+  title: Google Ads Video
+  url: ""
 - certificate_url: https://www.ethicsgame.com/exec/certificate/16169/ELI?email=grewala2@msu.edu
   date_end: ""
   date_start: "2021-01-13"
