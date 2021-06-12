@@ -26,7 +26,7 @@ organizations:
     url: https://msu.edu/
 education:
   courses:
-    - course: HBA in Accounting; Minor in IT, Comm. Sci., & Global Development
+    - course: Honors B.A. in Accounting; Minor in IT, Comm. Sci., & Global Development
       institution: Michigan State University
       year: 2023
     - course: Diploma, Business/Commerce
