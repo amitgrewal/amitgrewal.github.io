@@ -44,7 +44,7 @@ experience:
     date_start: '2014-07-01'
     date_end: ''
     description: |2- 
-        * Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial applicances.
+        * Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial appliances.
         * Heavy emphasis on mechanical and electrical engineering.
     
   - title: Assistant Manager
