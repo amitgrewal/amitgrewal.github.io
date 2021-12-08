@@ -32,9 +32,9 @@ slides: ""
 
 Grewal Consulting provides legal filing services and paralegal representation in a variety of matters before various authorities.
 
-We often represent clients in unemployment hearings where a disgruntled employee has claimed elgibility for unemployment, and thus the unemployment charges would be added to the employer/my client's unemployment taxes. As we advise our clients to never fire an employee unless cause is certain, we have never lost an unemployment case. For clarity, we do not advocate for the denial of legitimate unemployment benefits, only those false claims filed by disgruntled employees.
+We often represent clients in unemployment hearings where a disgruntled employee has claimed elgibility for unemployment, and thus the unemployment charges would be added to the employer/our client's unemployment taxes. As we advise our clients to never fire an employee unless cause is certain, we have never lost an unemployment case. For clarity, we do not advocate for the denial of legitimate unemployment benefits, only those false claims filed by disgruntled employees.
 
-We also counsel clients as paralegals in small-claims disputes and in tax audit cases. We have never lost any of these cases either, partially becuase of our extreme due diligence and serious commitment to compliance and record-keeping.
+We also counsel clients as paralegals in small-claims disputes and in tax audit cases. As with unemployment cases, we have never lost a small-claims or tax dispute case; thanks in large part to our extreme due diligence and serious commitment to compliance and record-keeping.
 
 As another courtesy service, we offer legal filing services. We can determine the necessary legal documents your business needs to file and take care of them for you with minimal effort required on your part.
 
