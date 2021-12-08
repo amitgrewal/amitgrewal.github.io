@@ -38,6 +38,6 @@ MMHI also has deep relationships with suppliers for both products and components
 
 Due to MMHI's extensive experience with retail store equipment, we can easily diagnose most issues correctly the first time instead of going through trial and error like most other repair companies.
 
-Beyond keeping your equipment up-to-date, MMHI also refurbished old equipment for resale. Through our refurbishment process, you can gain a 200%-300% gain in equipment resale value beyond the refurbishment cost. Thus, saving you money and allowing you to invest in better equipment.
+Beyond keeping your equipment up-to-date, MMHI also refurbishes old equipment for resale. Through our refurbishment process, you can gain a 200%-300% gain in equipment resale value beyond the refurbishment cost. Thus, saving you money and allowing you to invest in better equipment.
 
 Contact us through the contact form link at the top of this page for a quote and to learn more about our offerings.
