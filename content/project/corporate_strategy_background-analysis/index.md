@@ -30,12 +30,12 @@ url_video: ""
 slides: ""
 ---
 
-Before acquiring any business, it is important to understand the local macroenvironment it exist within. Consumer tastes, demographics, government regulations, workforce, and more can greatly affect a business' success.
+Before acquiring any business, it is important to understand the local microenvironment it exist within. Consumer tastes, demographics, government regulations, workforce, and more can greatly affect a business' success.
 
-Grewal Consulting recommends a thorough analysis of the local macroenvironment before sending an acquisition offer. We analze local competitors and their relative positions to determine if they pose a significant threat. We also analyze the consumer base to determine their spending ability and wants as well as the local workforce skillset and availability.
+Grewal Consulting recommends a thorough analysis of the local business environment before sending an acquisition offer. We analyze local competitors and their relative positions to determine if they pose a significant threat. We also analyze the consumer base to determine their spending ability and wants as well as the local workforce skillset and availability.
 
 Further, we assess local government sentiment towards change to determine if business expansions are feasible.
 
-In short, we analyze and assess a variety of factors in each business's local macroenvironment to determine any possible hindrances to success and opportunities to take advantage of.
+In short, we analyze and assess a variety of factors in each business's microenvironment to determine any possible hindrances to success and opportunities to take advantage of.
 
 Contact us through the contact form link at the top of this page for a quote and to learn more about our offerings.
