@@ -28,7 +28,7 @@ education:
   courses:
     - course: Honors B.A. in Accounting; Minor in IT, Comm. Sci., & Global Development
       institution: Michigan State University
-      year: 2023
+      year: 2022
     - course: Diploma, Business/Commerce
       institution: Forest Hills Central High School
       year: 2019
