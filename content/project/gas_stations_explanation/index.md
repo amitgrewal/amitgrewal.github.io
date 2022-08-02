@@ -30,8 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-Grewal Consulting provides a wide variety of services to gas station operators. All of our current clients have requested their details to be kept private unless
-
-an NDA is signed. All details from purchase price to the specific strategies used to rejuvenate our client's gas stations will be provided upon receipt of a signed
-
-non-disclosure agreement.
+Grewal Consulting provides a wide variety of services to gas station operators. All of our current clients have requested their details to be kept private unless an NDA is signed. All details from purchase price to the specific strategies used to rejuvenate our client's gas stations will be provided upon receipt of a signed non-disclosure agreement.
