@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: file-signature
+- icon: gas-pump
   icon_pack: fas
   name:
   url: https://amitgrewal.com/project/gas_stations_explanation/
