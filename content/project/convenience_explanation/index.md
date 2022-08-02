@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: store
-  icon_pack: far
+- icon: shop
+  icon_pack: fas
   name:
   url: https://amitgrewal.com/project/convenience_explanation/
 url_code: ""
