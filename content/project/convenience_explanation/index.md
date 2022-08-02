@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: shop
+- icon: shop-lock
   icon_pack: fas
   name:
   url: https://amitgrewal.com/project/convenience_explanation/
