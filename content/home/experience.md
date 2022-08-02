@@ -52,7 +52,7 @@ experience:
     company_url: ''
     location: Michigan
     date_start: '2014-06-02'
-    date_end: ''
+    date_end: '2022-08-01'
     description: |2-
         * Organized a team of 5-11 employees to increase productivity by 200%, while also increasing employee motivation.
         * Managed store operations in manager's absence.
