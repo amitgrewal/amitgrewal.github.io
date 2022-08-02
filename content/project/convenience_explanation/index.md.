@@ -1,9 +1,9 @@
 ---
-title: Information Under NDA
+title: Information is Under NDA
 summary: Please contact for more information on our convenience store clients
 tags:
 - Convenience
-date: "2017-02-13T00:00:00Z"
+date: "2017-02-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: shop
-  icon_pack: fas
+- icon: store
+  icon_pack: far
   name:
   url: https://amitgrewal.com/project/convenience_explanation/
 url_code: ""
