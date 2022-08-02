@@ -14,7 +14,7 @@ image:
 
 links:
 - icon: cart-shopping
-  icon_pack: fas
+  icon_pack: far
   name:
   url: https://amitgrewal.com/project/grocery_explanation/
 url_code: ""
