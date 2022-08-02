@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: gas-pump
+- icon: cart-shopping
   icon_pack: far
   name:
   url: https://amitgrewal.com/project/grocery_explanation/
