@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Chief Consultant
+  - title: Senior Consultant
     company: Grewal Consulting
     company_url: ''
     location: Michigan
     date_start: '2014-07-04'
     date_end: ''
     description: |2-
-        Current Clients: 12 | Acquisition Deals: $4.8M+  | Avg. 2Y Gain: 80%
+        Current Clients: 16 | Acquisition Deals: $6.7M+  | Avg. 2Y Gain: 80%
         
         Consulting services in:
         
@@ -45,7 +45,7 @@ experience:
     date_end: ''
     description: |2- 
         * Core focus on repair & resale of consumer electronics, secondary contracts for heavy equipment repair including industrial machinery, vehicles, and commercial appliances.
-        * Heavy emphasis on mechanical and electrical engineering.
+        * Substantial emphasis on mechanical and electrical engineering.
     
   - title: Assistant Manager
     company: Amant Petroleum L.L.C.
@@ -57,7 +57,7 @@ experience:
         * Organized a team of 5-11 employees to increase productivity by 200%, while also increasing employee motivation.
         * Managed store operations in manager's absence.
 
-  - title: Customer Service Representative
+  - title: Associate
     company: Amant Petroleum L.L.C.
     company_url: ''
     location: Michigan
